@@ -1,14 +1,13 @@
 {
   "scripts": {
-        "test": "gulp test",
-        "build": "gulp default",
-        "start": "node dist/index.js"
-    },
+    "test": "gulp test",
+    "build": "gulp default",
+    "start": "node dist/index.js"
+  },
   "name": "configurations-service",
   "version": "1.0.0",
   "description": "Vulcain micro-service",
   "main": "src/index.ts",
-  "scripts": {},
   "author": "Alain Metge",
   "license": "Apache-2.0",
   "devDependencies": {
